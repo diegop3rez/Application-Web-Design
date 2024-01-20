@@ -8,4 +8,8 @@
 * **Semester**: 6 Semester
 * **Date**: 19 de Enero del 2024
 
+## Tarea 1
+* **Age**: 20 
+* **Nacimiento**: 09 de Mayo del 2003
+
 >Markdown es un lenguaje que facilita la aplicacion de formato de un texto.
